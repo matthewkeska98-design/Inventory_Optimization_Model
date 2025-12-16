@@ -69,9 +69,9 @@ Cost Prioritization: Use the calculated Cost of Safety Stock metric to prioritiz
 
 The following chart illustrates the high daily volatility and the resulting ROP level required to maintain the 95% service target over the vendor lead time.
 
-!(visuals/ROP_plot_SKU_18_ALL.png)
+[View ROP Plot All](visuals/ROP_plot_SKU_18_ALL.png)
 
-!(visuals/ROP_plot_SKU_18_NORMAL.png)
+[View ROP Plot Normal](visuals/ROP_plot_SKU_18_NORMAL.png)
 
 📁 Repository Structure
 
